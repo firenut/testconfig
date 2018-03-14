@@ -1,4 +1,4 @@
-from: "HEELO PROD"
+from: "[PROD] HEELO PROD"
 tracer.property: "I AM THE PROD"
 spring.jpa.database: "MYSQL"
 spring.datasource.platform: "mysql"

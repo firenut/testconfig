@@ -1,4 +1,4 @@
-from: "HEELO DEFAULT"
+from: "[Git] HEELO DEFAULT"
 tracer.property: "I AM THE DEFAULT"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform: "postgres"
